@@ -9,7 +9,7 @@ Here, we look at credit risk data, [here](https://github.com/emilymcdaniel/Credi
 
 -----
 
-# Results: 
+# Results
 Each decision model weighs data differently. Let's look at the balanced accuracy scores (macro-average of recall scores), precision (frequency a model's positive result is is correct), and recall(frequency a model's prediction gives the correct result) differences within each model:
 
 *NOTE: in the images below, 1 = Low Risk, 0 = High Risk.*
@@ -64,7 +64,7 @@ The EasyEnsembleClassifier allows each factor to help refine how the next is int
 
 -----
 
-# Summary: 
+# Summary
 The machine learning models' results demonstrate that the manner in which data is handled will affect the credit-worthiness determination. 
 
 ## Model Recommendation
