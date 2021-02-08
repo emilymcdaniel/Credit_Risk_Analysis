@@ -65,7 +65,7 @@ The EasyEnsembleClassifier allows each factor to help refine how the next is int
 -----
 
 # Summary: 
-The machine learning models' reuslts demonstrate that the manner in which data is handled will affect the credit-worthiness determination. 
+The machine learning models' results demonstrate that the manner in which data is handled will affect the credit-worthiness determination. 
 
 ## Model Recommendation
-Based on the scores above, the BalanacedRandomForestClassifier shows the best outcomes. Not only are the numbers showing great scores, but they are consistent.
+Based on the scores above, the BalancedRandomForestClassifier shows the best outcomes. Not only are the numbers showing great scores, but the predicted and true results are consistent.
